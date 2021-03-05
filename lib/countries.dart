@@ -1272,7 +1272,7 @@ const List<Map<String, String>> countries = [
     "dial_code": "+47",
   },
   {
-    "name": "Swaziland",
+    "name": "Eswatini",
     "flag": "🇸🇿",
     "code": "SZ",
     "dial_code": "+268",
